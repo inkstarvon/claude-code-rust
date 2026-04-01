@@ -1,4 +1,4 @@
-完整的网站项目介绍：
+本项目包含TS的claude code 源代码。完整的网站项目介绍：
 
 # Claude Code Rust 🦀
 
