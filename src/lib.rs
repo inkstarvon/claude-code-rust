@@ -32,6 +32,7 @@ pub mod advanced;
 pub mod skills;
 pub mod performance;
 pub mod delegation;
+pub mod learning;
 
 // Feature-gated modules
 #[cfg(feature = "wasm")]
